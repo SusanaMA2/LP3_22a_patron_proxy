@@ -1,7 +1,0 @@
-Implementation\ProcessEjecutorProxy.class
-Interface\IProcessEjecutor.class
-services\AuditService.class
-services\SecurityService.class
-Implementation\DefaultProcessEjecutor.class
-Main\MainProxy.class
-Implementation\ServiceFactory.class
